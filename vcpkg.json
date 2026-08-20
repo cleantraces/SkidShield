@@ -1,0 +1,8 @@
+{
+  "name": "skidshield",
+  "version": "0.1.0",
+  "dependencies": [
+    "openssl"
+  ],
+  "builtin-baseline": "45f9f39362a4c52e2b1fbe57b7e649db7f3d96d4"
+}
